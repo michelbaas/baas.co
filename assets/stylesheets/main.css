@@ -9,7 +9,6 @@ h1 {
 
 #placeholder {
   display: grid;
-  height: 100vh;
-  align-items: center;
-  justify-items: center;
+  height: 90vh;
+  place-items: center;
 }
